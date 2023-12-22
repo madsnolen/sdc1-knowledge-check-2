@@ -12,10 +12,10 @@ for (int i = 0; i < numberOfRecords; i++)
     Console.WriteLine("Enter the name of your dog: ");
     dog.Name = Console.ReadLine();
 
-    Console.Write("How Old is this dog? Enter Age: ");
+    Console.WriteLine("How Old is this dog? Enter Age: ");
     dog.Age = int.Parse(Console.ReadLine());
 
-    Console.Write("Enter the type of Breed: ");
+    Console.WriteLine("Enter the type of Breed: ");
     dog.DogBreed = Console.ReadLine();
 
 
@@ -23,11 +23,6 @@ for (int i = 0; i < numberOfRecords; i++)
 }
 
 // Print out the list of records using Console.WriteLine()
-Console.WriteLine("*****************************");
-Console.WriteLine($"Name:      {Dog.Name}");
-Console.WriteLine($"Age:       {Dog.Age}");
-Console.WriteLine($"Dog Type: {Dog.DogBreed}");
-Console.WriteLine();
 foreach (var Dog in recordList)
 {
     Console.WriteLine("*****************************");
@@ -36,3 +31,4 @@ foreach (var Dog in recordList)
     Console.WriteLine($"Dog Type: {Dog.DogBreed}");
     Console.WriteLine();
 }
+
