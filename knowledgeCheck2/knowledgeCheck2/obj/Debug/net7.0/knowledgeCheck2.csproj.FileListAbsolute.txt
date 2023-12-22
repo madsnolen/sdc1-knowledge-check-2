@@ -1,0 +1,14 @@
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\bin\Debug\net7.0\knowledgeCheck2.exe
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\bin\Debug\net7.0\knowledgeCheck2.deps.json
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\bin\Debug\net7.0\knowledgeCheck2.runtimeconfig.json
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\bin\Debug\net7.0\knowledgeCheck2.dll
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\bin\Debug\net7.0\knowledgeCheck2.pdb
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\obj\Debug\net7.0\knowledgeCheck2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\obj\Debug\net7.0\knowledgeCheck2.AssemblyInfoInputs.cache
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\obj\Debug\net7.0\knowledgeCheck2.AssemblyInfo.cs
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\obj\Debug\net7.0\knowledgeCheck2.csproj.CoreCompileInputs.cache
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\obj\Debug\net7.0\knowledgeCheck2.dll
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\obj\Debug\net7.0\refint\knowledgeCheck2.dll
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\obj\Debug\net7.0\knowledgeCheck2.pdb
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\obj\Debug\net7.0\knowledgeCheck2.genruntimeconfig.cache
+C:\Users\Madison\Documents\Projects\sdc1-knowledge-check-2\knowledgeCheck2\knowledgeCheck2\obj\Debug\net7.0\ref\knowledgeCheck2.dll
