@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\knowledgeCheck2",
+    "\\knowledgeCheck2\\knowledgeCheck2"
   ],
-  "SelectedNode": "\\C:\\Users\\Madison\\Documents\\Projects\\sdc1-knowledge-check-2",
+  "SelectedNode": "\\knowledgeCheck2\\knowledgeCheck2\\DogType.cs",
   "PreviewInSolutionExplorer": false
 }
