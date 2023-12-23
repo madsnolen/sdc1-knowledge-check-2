@@ -8,6 +8,6 @@ namespace knowledgeCheck2
 {
     public class Dog : DogType
     {
-        public string? DogBreed { get; set; }
+        public string DogBreed { get; set; }
     }
 }
